@@ -7,3 +7,5 @@
 4. Para iniciar sesion lo pueda hacer con el usuario brindado en el scrip o creando uno nuevo por medio de la ruta */registro* o la opcion *iniciar sesion -> registrarse*
 
 Gracias. 
+
+# VERIFICAR RUTA BASE DEL ARCHIVO. $base_url
